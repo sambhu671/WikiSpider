@@ -1,0 +1,1412 @@
+[
+  {
+    "Year": "2014",
+    "Visits": [
+      {
+        "Country": "Bhutan",
+        "City": [
+          "Thimphu",
+          "Paro"
+        ],
+        "Date": {
+          "start_date": "15 June",
+          "end_date": "16 June"
+        }
+      },
+      {
+        "Country": "Brazil",
+        "City": [
+          "Fortaleza",
+          "Brasilia"
+        ],
+        "Date": {
+          "start_date": "13 July",
+          "end_date": "16 July"
+        }
+      },
+      {
+        "Country": "Nepal",
+        "City": [
+          "Kathmandu"
+        ],
+        "Date": {
+          "start_date": "3 August",
+          "end_date": "4 August"
+        }
+      },
+      {
+        "Country": "Japan",
+        "City": [
+          "Tokyo",
+          "Kyoto"
+        ],
+        "Date": {
+          "start_date": "30 September",
+          "end_date": "3 September"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0United States",
+        "City": [
+          "Washington, D.C.",
+          "New York City"
+        ],
+        "Date": {
+          "start_date": "26 September",
+          "end_date": "30 September"
+        }
+      },
+      {
+        "Country": "Myanmar",
+        "City": [
+          "Naypyidaw"
+        ],
+        "Date": {
+          "start_date": "11 November",
+          "end_date": "13 November"
+        }
+      },
+      {
+        "Country": "Australia",
+        "City": [
+          "Canberra",
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ],
+        "Date": {
+          "start_date": "14 November",
+          "end_date": "18 November"
+        }
+      },
+      {
+        "Country": "Fiji",
+        "City": [
+          "Suva"
+        ],
+        "Date": {
+          "start_date": "19 November",
+          "end_date": "19 November"
+        }
+      },
+      {
+        "Country": "Nepal",
+        "City": [
+          "Kathmandu"
+        ],
+        "Date": {
+          "start_date": "25 November",
+          "end_date": "27 November"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2015",
+    "Visits": [
+      {
+        "Country": "Seychelles",
+        "City": [
+          "Victoria"
+        ],
+        "Date": {
+          "start_date": "10 March",
+          "end_date": "11 March"
+        }
+      },
+      {
+        "Country": "Mauritius",
+        "City": [
+          "Port Louis"
+        ],
+        "Date": {
+          "start_date": "11 March",
+          "end_date": "13 March"
+        }
+      },
+      {
+        "Country": "Sri Lanka",
+        "City": [
+          "Jaffna",
+          "Colombo"
+        ],
+        "Date": {
+          "start_date": "13 March",
+          "end_date": "14 March"
+        }
+      },
+      {
+        "Country": "Singapore",
+        "City": [
+          "Singapore"
+        ],
+        "Date": {
+          "start_date": "23 March",
+          "end_date": "23 March"
+        }
+      },
+      {
+        "Country": "France",
+        "City": [
+          "Paris",
+          "Toulouse",
+          "Neuve-Chapelle"
+        ],
+        "Date": {
+          "start_date": "9 April",
+          "end_date": "12 April"
+        }
+      },
+      {
+        "Country": "Germany",
+        "City": [
+          "Hannover",
+          "Berlin"
+        ],
+        "Date": {
+          "start_date": "12 April",
+          "end_date": "14 April"
+        }
+      },
+      {
+        "Country": "Canada",
+        "City": [
+          "Ottawa",
+          "Vancouver",
+          "Toronto"
+        ],
+        "Date": {
+          "start_date": "14 April",
+          "end_date": "16 April"
+        }
+      },
+      {
+        "Country": "China",
+        "City": [
+          "Xi'an",
+          "Shanghai",
+          "Beijing"
+        ],
+        "Date": {
+          "start_date": "14 May",
+          "end_date": "16 May"
+        }
+      },
+      {
+        "Country": "Mongolia",
+        "City": [
+          "Ulaanbaatar"
+        ],
+        "Date": {
+          "start_date": "16 May",
+          "end_date": "17 May"
+        }
+      },
+      {
+        "Country": "South Korea",
+        "City": [
+          "Seoul"
+        ],
+        "Date": {
+          "start_date": "18 May",
+          "end_date": "19 May"
+        }
+      },
+      {
+        "Country": "Bangladesh",
+        "City": [
+          "Dhaka"
+        ],
+        "Date": {
+          "start_date": "6 June",
+          "end_date": "7 June"
+        }
+      },
+      {
+        "Country": "Uzbekistan",
+        "City": [
+          "Tashkent"
+        ],
+        "Date": {
+          "start_date": "6 July",
+          "end_date": "6 July"
+        }
+      },
+      {
+        "Country": "Kazakhstan",
+        "City": [
+          "Astana"
+        ],
+        "Date": {
+          "start_date": "7 July",
+          "end_date": "7 July"
+        }
+      },
+      {
+        "Country": "Russia",
+        "City": [
+          "Ufa"
+        ],
+        "Date": {
+          "start_date": "8 July",
+          "end_date": "10 July"
+        }
+      },
+      {
+        "Country": "Turkmenistan",
+        "City": [
+          "Ashgabat"
+        ],
+        "Date": {
+          "start_date": "10 July",
+          "end_date": "11 July"
+        }
+      },
+      {
+        "Country": "Kyrgyzstan",
+        "City": [
+          "Bishkek"
+        ],
+        "Date": {
+          "start_date": "12 July",
+          "end_date": "12 July"
+        }
+      },
+      {
+        "Country": "Tajikistan",
+        "City": [
+          "Dushanbe"
+        ],
+        "Date": {
+          "start_date": "12 July",
+          "end_date": "13 July"
+        }
+      },
+      {
+        "Country": "United Arab Emirates",
+        "City": [
+          "Dubai",
+          "Abu Dhabi"
+        ],
+        "Date": {
+          "start_date": "16 August",
+          "end_date": "17 August"
+        }
+      },
+      {
+        "Country": "Ireland",
+        "City": [
+          "Dublin"
+        ],
+        "Date": {
+          "start_date": "23 September",
+          "end_date": "23 September"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0United States",
+        "City": [
+          "San Francisco",
+          "New York City"
+        ],
+        "Date": {
+          "start_date": "24 September",
+          "end_date": "30 September"
+        }
+      },
+      {
+        "Country": "United Kingdom",
+        "City": [
+          "London",
+          "Chequers"
+        ],
+        "Date": {
+          "start_date": "12 November",
+          "end_date": "14 November"
+        }
+      },
+      {
+        "Country": "Turkey",
+        "City": [
+          "Antalya"
+        ],
+        "Date": {
+          "start_date": "15 November",
+          "end_date": "16 November"
+        }
+      },
+      {
+        "Country": "Malaysia",
+        "City": [
+          "Kuala Lumpur"
+        ],
+        "Date": {
+          "start_date": "21 November",
+          "end_date": "22 November"
+        }
+      },
+      {
+        "Country": "Singapore",
+        "City": [
+          "Singapore"
+        ],
+        "Date": {
+          "start_date": "23 November",
+          "end_date": "25 November"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0France",
+        "City": [
+          "Paris"
+        ],
+        "Date": {
+          "start_date": "30 December",
+          "end_date": "1 December"
+        }
+      },
+      {
+        "Country": "Russia",
+        "City": [
+          "Moscow"
+        ],
+        "Date": {
+          "start_date": "23 December",
+          "end_date": "24 December"
+        }
+      },
+      {
+        "Country": "Afghanistan",
+        "City": [
+          "Kabul"
+        ],
+        "Date": {
+          "start_date": "25 December",
+          "end_date": "25 December"
+        }
+      },
+      {
+        "Country": "Pakistan",
+        "City": [
+          "Lahore"
+        ],
+        "Date": {
+          "start_date": "25 December",
+          "end_date": "25 December"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2016",
+    "Visits": [
+      {
+        "Country": "European Union\n\u00a0Belgium",
+        "City": [
+          "Brussels"
+        ],
+        "Date": {
+          "start_date": "30 March",
+          "end_date": "30 March"
+        }
+      },
+      {
+        "Country": "United States",
+        "City": [
+          "Washington, D.C."
+        ],
+        "Date": {
+          "start_date": "31 April",
+          "end_date": "1 April"
+        }
+      },
+      {
+        "Country": "Saudi Arabia",
+        "City": [
+          "Riyadh"
+        ],
+        "Date": {
+          "start_date": "2 April",
+          "end_date": "3 April"
+        }
+      },
+      {
+        "Country": "Iran",
+        "City": [
+          "Tehran"
+        ],
+        "Date": {
+          "start_date": "22 May",
+          "end_date": "23 May"
+        }
+      },
+      {
+        "Country": "Afghanistan",
+        "City": [
+          "Herat"
+        ],
+        "Date": {
+          "start_date": "4 June",
+          "end_date": "4 June"
+        }
+      },
+      {
+        "Country": "Qatar",
+        "City": [
+          "Doha"
+        ],
+        "Date": {
+          "start_date": "4 June",
+          "end_date": "5 June"
+        }
+      },
+      {
+        "Country": "Switzerland",
+        "City": [
+          "Geneva"
+        ],
+        "Date": {
+          "start_date": "6 June",
+          "end_date": "6 June"
+        }
+      },
+      {
+        "Country": "United States",
+        "City": [
+          "Washington, D.C."
+        ],
+        "Date": {
+          "start_date": "6 June",
+          "end_date": "8 June"
+        }
+      },
+      {
+        "Country": "Mexico",
+        "City": [
+          "Mexico City"
+        ],
+        "Date": {
+          "start_date": "9 June",
+          "end_date": "9 June"
+        }
+      },
+      {
+        "Country": "Uzbekistan",
+        "City": [
+          "Tashkent"
+        ],
+        "Date": {
+          "start_date": "23 June",
+          "end_date": "24 June"
+        }
+      },
+      {
+        "Country": "Mozambique",
+        "City": [
+          "Maputo"
+        ],
+        "Date": {
+          "start_date": "7 July",
+          "end_date": "7 July"
+        }
+      },
+      {
+        "Country": "South Africa",
+        "City": [
+          "Johannesburg",
+          "Pretoria",
+          "Pietermaritzburg",
+          "Durban"
+        ],
+        "Date": {
+          "start_date": "8 July",
+          "end_date": "9 July"
+        }
+      },
+      {
+        "Country": "Tanzania",
+        "City": [
+          "Dodoma"
+        ],
+        "Date": {
+          "start_date": "10 July",
+          "end_date": "10 July"
+        }
+      },
+      {
+        "Country": "Kenya",
+        "City": [
+          "Nairobi"
+        ],
+        "Date": {
+          "start_date": "11 July",
+          "end_date": "11 July"
+        }
+      },
+      {
+        "Country": "Vietnam",
+        "City": [
+          "Hanoi"
+        ],
+        "Date": {
+          "start_date": "2 September",
+          "end_date": "3 September"
+        }
+      },
+      {
+        "Country": "China",
+        "City": [
+          "Hangzhou"
+        ],
+        "Date": {
+          "start_date": "4 September",
+          "end_date": "5 September"
+        }
+      },
+      {
+        "Country": "Laos",
+        "City": [
+          "Vientiane"
+        ],
+        "Date": {
+          "start_date": "7 September",
+          "end_date": "8 September"
+        }
+      },
+      {
+        "Country": "Thailand",
+        "City": [
+          "Bangkok"
+        ],
+        "Date": {
+          "start_date": "10 November",
+          "end_date": "10 November"
+        }
+      },
+      {
+        "Country": "Japan",
+        "City": [
+          "Tokyo"
+        ],
+        "Date": {
+          "start_date": "11 November",
+          "end_date": "12 November"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2017",
+    "Visits": [
+      {
+        "Country": "Sri Lanka",
+        "City": [
+          "Kandy",
+          "Colombo"
+        ],
+        "Date": {
+          "start_date": "11 May",
+          "end_date": "12 May"
+        }
+      },
+      {
+        "Country": "Germany",
+        "City": [
+          "Meseberg",
+          "Berlin"
+        ],
+        "Date": {
+          "start_date": "29 May",
+          "end_date": "30 May"
+        }
+      },
+      {
+        "Country": "Spain",
+        "City": [
+          "Madrid"
+        ],
+        "Date": {
+          "start_date": "30 May",
+          "end_date": "31 May"
+        }
+      },
+      {
+        "Country": "Russia",
+        "City": [
+          "Saint Petersburg"
+        ],
+        "Date": {
+          "start_date": "31 June",
+          "end_date": "2 June"
+        }
+      },
+      {
+        "Country": "France",
+        "City": [
+          "Paris"
+        ],
+        "Date": {
+          "start_date": "2 June",
+          "end_date": "3 June"
+        }
+      },
+      {
+        "Country": "Kazakhstan",
+        "City": [
+          "Astana"
+        ],
+        "Date": {
+          "start_date": "8 June",
+          "end_date": "9 June"
+        }
+      },
+      {
+        "Country": "Portugal",
+        "City": [
+          "Lisbon"
+        ],
+        "Date": {
+          "start_date": "24 June",
+          "end_date": "24 June"
+        }
+      },
+      {
+        "Country": "United States",
+        "City": [
+          "Washington, D.C."
+        ],
+        "Date": {
+          "start_date": "25 June",
+          "end_date": "26 June"
+        }
+      },
+      {
+        "Country": "Netherlands",
+        "City": [
+          "Amsterdam"
+        ],
+        "Date": {
+          "start_date": "27 June",
+          "end_date": "27 June"
+        }
+      },
+      {
+        "Country": "Israel",
+        "City": [
+          "Jerusalem",
+          "Tel Aviv",
+          "Haifa"
+        ],
+        "Date": {
+          "start_date": "4 July",
+          "end_date": "6 July"
+        }
+      },
+      {
+        "Country": "Germany",
+        "City": [
+          "Hamburg"
+        ],
+        "Date": {
+          "start_date": "7 July",
+          "end_date": "8 July"
+        }
+      },
+      {
+        "Country": "China",
+        "City": [
+          "Xiamen"
+        ],
+        "Date": {
+          "start_date": "3 September",
+          "end_date": "5 September"
+        }
+      },
+      {
+        "Country": "Myanmar",
+        "City": [
+          "Naypyidaw"
+        ],
+        "Date": {
+          "start_date": "6 September",
+          "end_date": "7 September"
+        }
+      },
+      {
+        "Country": "Philippines",
+        "City": [
+          "Pasay"
+        ],
+        "Date": {
+          "start_date": "12 November",
+          "end_date": "14 November"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2018",
+    "Visits": [
+      {
+        "Country": "Switzerland",
+        "City": [
+          "Davos"
+        ],
+        "Date": {
+          "start_date": "23 January",
+          "end_date": "26 January"
+        }
+      },
+      {
+        "Country": "Jordan",
+        "City": [
+          "Amman"
+        ],
+        "Date": {
+          "start_date": "9 February",
+          "end_date": "9 February"
+        }
+      },
+      {
+        "Country": "Palestine",
+        "City": [
+          "Ramallah"
+        ],
+        "Date": {
+          "start_date": "10 February",
+          "end_date": "10 February"
+        }
+      },
+      {
+        "Country": "United Arab Emirates",
+        "City": [
+          "Dubai",
+          "Abu Dhabi"
+        ],
+        "Date": {
+          "start_date": "10 February",
+          "end_date": "11 February"
+        }
+      },
+      {
+        "Country": "Oman",
+        "City": [
+          "Muscat"
+        ],
+        "Date": {
+          "start_date": "11 February",
+          "end_date": "12 February"
+        }
+      },
+      {
+        "Country": "Sweden",
+        "City": [
+          "Stockholm"
+        ],
+        "Date": {
+          "start_date": "16 April",
+          "end_date": "18 April"
+        }
+      },
+      {
+        "Country": "United Kingdom",
+        "City": [
+          "London"
+        ],
+        "Date": {
+          "start_date": "18 April",
+          "end_date": "20 April"
+        }
+      },
+      {
+        "Country": "Germany",
+        "City": [
+          "Berlin"
+        ],
+        "Date": {
+          "start_date": "20 April",
+          "end_date": "20 April"
+        }
+      },
+      {
+        "Country": "China",
+        "City": [
+          "Wuhan"
+        ],
+        "Date": {
+          "start_date": "27 April",
+          "end_date": "28 April"
+        }
+      },
+      {
+        "Country": "Nepal",
+        "City": [
+          "Kathmandu",
+          "Janakpur"
+        ],
+        "Date": {
+          "start_date": "11 May",
+          "end_date": "12 May"
+        }
+      },
+      {
+        "Country": "Russia",
+        "City": [
+          "Sochi"
+        ],
+        "Date": {
+          "start_date": "21 May",
+          "end_date": "21 May"
+        }
+      },
+      {
+        "Country": "Indonesia",
+        "City": [
+          "Jakarta"
+        ],
+        "Date": {
+          "start_date": "29 May",
+          "end_date": "29 May"
+        }
+      },
+      {
+        "Country": "Malaysia",
+        "City": [
+          "Kuala Lumpur"
+        ],
+        "Date": {
+          "start_date": "31 May",
+          "end_date": "31 May"
+        }
+      },
+      {
+        "Country": "Singapore",
+        "City": [
+          "Singapore"
+        ],
+        "Date": {
+          "start_date": "31 June",
+          "end_date": "2 June"
+        }
+      },
+      {
+        "Country": "China",
+        "City": [
+          "Qingdao"
+        ],
+        "Date": {
+          "start_date": "9 June",
+          "end_date": "10 June"
+        }
+      },
+      {
+        "Country": "Rwanda",
+        "City": [
+          "Kigali"
+        ],
+        "Date": {
+          "start_date": "23 July",
+          "end_date": "24 July"
+        }
+      },
+      {
+        "Country": "Uganda",
+        "City": [
+          "Kampala",
+          "Entebbe"
+        ],
+        "Date": {
+          "start_date": "24 July",
+          "end_date": "24 July"
+        }
+      },
+      {
+        "Country": "South Africa",
+        "City": [
+          "Johannesburg"
+        ],
+        "Date": {
+          "start_date": "25 July",
+          "end_date": "27 July"
+        }
+      },
+      {
+        "Country": "Nepal",
+        "City": [
+          "Kathmandu"
+        ],
+        "Date": {
+          "start_date": "30 August",
+          "end_date": "31 August"
+        }
+      },
+      {
+        "Country": "Japan",
+        "City": [
+          "Tokyo"
+        ],
+        "Date": {
+          "start_date": "28 October",
+          "end_date": "29 October"
+        }
+      },
+      {
+        "Country": "Singapore",
+        "City": [
+          "Singapore"
+        ],
+        "Date": {
+          "start_date": "14 November",
+          "end_date": "15 November"
+        }
+      },
+      {
+        "Country": "Maldives",
+        "City": [
+          "Mal\u00e9"
+        ],
+        "Date": {
+          "start_date": "17 November",
+          "end_date": "17 November"
+        }
+      },
+      {
+        "Country": "Argentina",
+        "City": [
+          "Buenos Aires"
+        ],
+        "Date": {
+          "start_date": "29 December",
+          "end_date": "1 December"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2019",
+    "Visits": [
+      {
+        "Country": "South Korea",
+        "City": [
+          "Seoul"
+        ],
+        "Date": {
+          "start_date": "21 February",
+          "end_date": "22 February"
+        }
+      },
+      {
+        "Country": "Maldives",
+        "City": [
+          "Mal\u00e9"
+        ],
+        "Date": {
+          "start_date": "8 June",
+          "end_date": "8 June"
+        }
+      },
+      {
+        "Country": "Sri Lanka",
+        "City": [
+          "Colombo"
+        ],
+        "Date": {
+          "start_date": "9 June",
+          "end_date": "9 June"
+        }
+      },
+      {
+        "Country": "Kyrgyzstan",
+        "City": [
+          "Bishkek"
+        ],
+        "Date": {
+          "start_date": "14 June",
+          "end_date": "15 June"
+        }
+      },
+      {
+        "Country": "Japan",
+        "City": [
+          "Osaka"
+        ],
+        "Date": {
+          "start_date": "27 June",
+          "end_date": "29 June"
+        }
+      },
+      {
+        "Country": "Bhutan",
+        "City": [
+          "Thimphu"
+        ],
+        "Date": {
+          "start_date": "17 August",
+          "end_date": "18 August"
+        }
+      },
+      {
+        "Country": "France",
+        "City": [
+          "Paris"
+        ],
+        "Date": {
+          "start_date": "22 August",
+          "end_date": "23 August"
+        }
+      },
+      {
+        "Country": "United Arab Emirates",
+        "City": [
+          "Abu Dhabi"
+        ],
+        "Date": {
+          "start_date": "23 August",
+          "end_date": "24 August"
+        }
+      },
+      {
+        "Country": "Bahrain",
+        "City": [
+          "Manama",
+          "Riffa"
+        ],
+        "Date": {
+          "start_date": "24 August",
+          "end_date": "25 August"
+        }
+      },
+      {
+        "Country": "France",
+        "City": [
+          "Biarritz"
+        ],
+        "Date": {
+          "start_date": "25 August",
+          "end_date": "26 August"
+        }
+      },
+      {
+        "Country": "Russia",
+        "City": [
+          "Vladivostok"
+        ],
+        "Date": {
+          "start_date": "4 September",
+          "end_date": "5 September"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0United States",
+        "City": [
+          "Houston",
+          "Chicago",
+          "New York City"
+        ],
+        "Date": {
+          "start_date": "20 September",
+          "end_date": "27 September"
+        }
+      },
+      {
+        "Country": "Saudi Arabia",
+        "City": [
+          "Riyadh"
+        ],
+        "Date": {
+          "start_date": "29 October",
+          "end_date": "29 October"
+        }
+      },
+      {
+        "Country": "Thailand",
+        "City": [
+          "Bangkok"
+        ],
+        "Date": {
+          "start_date": "2 November",
+          "end_date": "4 November"
+        }
+      },
+      {
+        "Country": "Brazil",
+        "City": [
+          "Bras\u00edlia"
+        ],
+        "Date": {
+          "start_date": "13 November",
+          "end_date": "14 November"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2021",
+    "Visits": [
+      {
+        "Country": "Bangladesh",
+        "City": [
+          "Ishwaripur",
+          "Dhaka",
+          "Orakandi"
+        ],
+        "Date": {
+          "start_date": "26 March",
+          "end_date": "27 March"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0United States",
+        "City": [
+          "Washington, D.C.",
+          "New York City"
+        ],
+        "Date": {
+          "start_date": "22 September",
+          "end_date": "25 September"
+        }
+      },
+      {
+        "Country": "Italy",
+        "City": [
+          "Rome"
+        ],
+        "Date": {
+          "start_date": "29 October",
+          "end_date": "31 October"
+        }
+      },
+      {
+        "Country": "Vatican City",
+        "City": [
+          "Vatican City"
+        ],
+        "Date": {
+          "start_date": "30 October",
+          "end_date": "30 October"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0United Kingdom",
+        "City": [
+          "Glasgow"
+        ],
+        "Date": {
+          "start_date": "1 November",
+          "end_date": "3 November"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2022",
+    "Visits": [
+      {
+        "Country": "Germany",
+        "City": [
+          "Berlin"
+        ],
+        "Date": {
+          "start_date": "2 May",
+          "end_date": "2 May"
+        }
+      },
+      {
+        "Country": "Denmark",
+        "City": [
+          "Copenhagen"
+        ],
+        "Date": {
+          "start_date": "3 May",
+          "end_date": "4 May"
+        }
+      },
+      {
+        "Country": "France",
+        "City": [
+          "Paris"
+        ],
+        "Date": {
+          "start_date": "4 May",
+          "end_date": "4 May"
+        }
+      },
+      {
+        "Country": "Nepal",
+        "City": [
+          "Lumbini"
+        ],
+        "Date": {
+          "start_date": "16 May",
+          "end_date": "16 May"
+        }
+      },
+      {
+        "Country": "Japan",
+        "City": [
+          "Tokyo"
+        ],
+        "Date": {
+          "start_date": "23 May",
+          "end_date": "24 May"
+        }
+      },
+      {
+        "Country": "Germany",
+        "City": [
+          "Schloss Elmau"
+        ],
+        "Date": {
+          "start_date": "26 June",
+          "end_date": "27 June"
+        }
+      },
+      {
+        "Country": "United Arab Emirates",
+        "City": [
+          "Abu Dhabi"
+        ],
+        "Date": {
+          "start_date": "28 June",
+          "end_date": "28 June"
+        }
+      },
+      {
+        "Country": "Uzbekistan",
+        "City": [
+          "Samarkand"
+        ],
+        "Date": {
+          "start_date": "15 September",
+          "end_date": "16 September"
+        }
+      },
+      {
+        "Country": "Japan",
+        "City": [
+          "Tokyo"
+        ],
+        "Date": {
+          "start_date": "27 September",
+          "end_date": "27 September"
+        }
+      },
+      {
+        "Country": "Indonesia",
+        "City": [
+          "Bali"
+        ],
+        "Date": {
+          "start_date": "15 November",
+          "end_date": "16 November"
+        }
+      }
+    ]
+  },
+  {
+    "Year": "2023",
+    "Visits": [
+      {
+        "Country": "Japan",
+        "City": [
+          "Hiroshima"
+        ],
+        "Date": {
+          "start_date": "19 May",
+          "end_date": "21 May"
+        }
+      },
+      {
+        "Country": "Papua New Guinea",
+        "City": [
+          "Port Moresby"
+        ],
+        "Date": {
+          "start_date": "21 May",
+          "end_date": "22 May"
+        }
+      },
+      {
+        "Country": "Australia",
+        "City": [
+          "Sydney"
+        ],
+        "Date": {
+          "start_date": "22 May",
+          "end_date": "24 May"
+        }
+      },
+      {
+        "Country": "United Nations\n\u00a0United States",
+        "City": [
+          "Washington, D.C.",
+          "New York City"
+        ],
+        "Date": {
+          "start_date": "20 June",
+          "end_date": "23 June"
+        }
+      },
+      {
+        "Country": "Egypt",
+        "City": [
+          "Cairo"
+        ],
+        "Date": {
+          "start_date": "24 June",
+          "end_date": "25 June"
+        }
+      },
+      {
+        "Country": "France",
+        "City": [
+          "Paris"
+        ],
+        "Date": {
+          "start_date": "13 July",
+          "end_date": "15 July"
+        }
+      },
+      {
+        "Country": "United Arab Emirates",
+        "City": [
+          "Abu Dhabi"
+        ],
+        "Date": {
+          "start_date": "15 July",
+          "end_date": "15 July"
+        }
+      },
+      {
+        "Country": "South Africa",
+        "City": [
+          "Johannesburg"
+        ],
+        "Date": {
+          "start_date": "22 August",
+          "end_date": "24 August"
+        }
+      },
+      {
+        "Country": "Greece",
+        "City": [
+          "Athens"
+        ],
+        "Date": {
+          "start_date": "25 August",
+          "end_date": "25 August"
+        }
+      },
+      {
+        "Country": "Indonesia",
+        "City": [
+          "Jakarta"
+        ],
+        "Date": {
+          "start_date": "5 September",
+          "end_date": "7 September"
+        }
+      }
+    ]
+  }
+]
